@@ -21,7 +21,7 @@ This lab was designed to:
 
 ## Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](docs/Architecture.png)
 
 ### Environment
 
