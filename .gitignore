@@ -1,0 +1,6 @@
+alerts.json
+alerts.log
+*.log
+__pycache__/
+venv/
+.env

@@ -1,0 +1,8 @@
+{
+    "event_type": "ssh_bruteforce_success", 
+    "severity": "medium", 
+    "hostname": "ubuntu-server", 
+    "source_ip": "192.168.56.101", 
+    "failed_attempts": 2, 
+    "success_time": "2026-06-24 05:40:21"
+}
